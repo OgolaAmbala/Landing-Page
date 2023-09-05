@@ -1,1 +1,1 @@
-# Landing-Page
+Oding project landing page exercise
